@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/philshiu/Drosophila_brain_model/blob/main/example.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CesiumChloride/Drosophila_brain_model/blob/main/example.ipynb)
 
 # Model for the _Drosophila_ brain
 Activate and silence neurons in a computational model based on the
